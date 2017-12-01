@@ -1,0 +1,7 @@
+#mac specific
+.DS_Store
+
+#This is to be ignored too
+DS_Testing
+
+MyPlanning/*
